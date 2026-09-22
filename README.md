@@ -23,7 +23,6 @@
 
 </div>
 
-## 🐍 GitHub Snake
 
 <div align="center">
 
