@@ -9,6 +9,8 @@
 ---
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorgasparotti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -21,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=victorgasparotti&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=victorgasparotti&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -29,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=victorgasparotti&label=Visualizações%20do%20perfil&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=victorgasparotti&label=Visualizações%20do%20perfil&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
