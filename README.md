@@ -2,7 +2,8 @@
 
 💻 **Estudante de Análise e Desenvolvimento de Sistemas**
 🐍 Focado em **Back-end com Python**
-🗄️ Estudando **SQL e bancos de dados**
+☕ Estudando **Java**
+🗄️ Aprendendo **SQL e bancos de dados**
 🚀 Buscando evoluir constantemente na área de tecnologia
 
 ---
@@ -11,7 +12,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e tenho formação técnica em Informática.
 
-Atualmente estou direcionando meus estudos para **desenvolvimento Back-end**, principalmente com Python, buscando aprender na prática através de projetos e cursos.
+Atualmente estou direcionando meus estudos para **desenvolvimento Back-end**, principalmente com Python e Java, buscando aprender na prática através de projetos e cursos.
 
 Tenho interesse em desenvolvimento de software, bancos de dados, APIs, automação e tecnologias relacionadas a dados.
 
@@ -23,7 +24,7 @@ Tenho interesse em desenvolvimento de software, bancos de dados, APIs, automaç�
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
@@ -49,6 +50,7 @@ Tenho interesse em desenvolvimento de software, bancos de dados, APIs, automaç�
 ## 📚 Atualmente estudando
 
 * 🐍 Python
+* ☕ Java
 * ⚡ FastAPI
 * 🗄️ SQL e bancos de dados
 * 🔌 Desenvolvimento de APIs
@@ -70,9 +72,9 @@ Aqui você encontrará projetos desenvolvidos durante meus estudos e projetos pe
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorgasparotti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgasparotti&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -81,11 +83,16 @@ Aqui você encontrará projetos desenvolvidos durante meus estudos e projetos pe
 ## 📫 Contato
 
 <p>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/victorgasparottii/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEU_EMAIL">
+
+  <a href="mailto:victorgasparotti@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/victorgasparotti">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -98,4 +105,3 @@ Aqui você encontrará projetos desenvolvidos durante meus estudos e projetos pe
 ⭐ Obrigado por visitar meu perfil!
 
 </div>
-
