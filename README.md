@@ -90,15 +90,6 @@ Aqui você encontrará projetos desenvolvidos durante meus estudos e projetos pe
 
 ---
 
-## 📊 GitHub Stats
-
-- 📌 Repositórios públicos: em constante evolução
-- 💻 Foco atual: Back-end, Python, Java e SQL
-- 🚀 Projetos e estudos voltados para desenvolvimento de software
-- 📚 Sempre aprendendo e aprimorando minhas habilidades
-
----
-
 ## 📫 Contato
 
 <p>
