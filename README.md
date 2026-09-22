@@ -90,15 +90,12 @@ Aqui você encontrará projetos desenvolvidos durante meus estudos e projetos pe
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorgasparotti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgasparotti&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
+- 📌 Repositórios públicos: em constante evolução
+- 💻 Foco atual: Back-end, Python, Java e SQL
+- 🚀 Projetos e estudos voltados para desenvolvimento de software
+- 📚 Sempre aprendendo e aprimorando minhas habilidades
 
 ---
 
