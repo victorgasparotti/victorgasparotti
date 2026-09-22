@@ -11,12 +11,11 @@
 
 ## 📊 GitHub Stats
 
-
-<br>
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=victorgasparotti&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=victorgasparotti&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgasparotti&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -24,7 +23,15 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=victorgasparotti&label=Visualizações%20do%20perfil&color=0e75b6&style=for-the-badge"/>
+<img src="https://streak-stats.demolab.com?user=victorgasparotti&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=victorgasparotti&label=Visualizações%20do%20perfil&style=for-the-badge"/>
 
 </div>
 
