@@ -33,6 +33,14 @@
 
 </div>
 
+## 🐍 GitHub Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/victorgasparotti/victorgasparotti/output/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
+
+</div>
+
 ## 🧑‍💻 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e tenho formação técnica em Informática.
