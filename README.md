@@ -9,18 +9,6 @@
 ---
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=victorgasparotti&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgasparotti&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<br>
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=victorgasparotti&theme=tokyonight&hide_border=true" height="180"/>
