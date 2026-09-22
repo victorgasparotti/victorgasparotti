@@ -7,6 +7,31 @@
 🚀 Buscando evoluir constantemente na área de tecnologia
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorgasparotti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgasparotti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=victorgasparotti&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=victorgasparotti&label=Visualizações%20do%20perfil&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ## 🧑‍💻 Sobre mim
 
@@ -83,7 +108,7 @@ Aqui você encontrará projetos desenvolvidos durante meus estudos e projetos pe
 ## 📫 Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/victorgasparottii/">
+  <a href="https://www.linkedin.com/in/victor-gasparottii/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
