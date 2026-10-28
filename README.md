@@ -2,7 +2,6 @@
 
 💻 **Estudante de Análise e Desenvolvimento de Sistemas**
 🐍 Focado em **Back-end com Python**
-☕ Estudando **Java**
 🗄️ Aprendendo **SQL e bancos de dados**
 🚀 Buscando evoluir constantemente na área de tecnologia
 
